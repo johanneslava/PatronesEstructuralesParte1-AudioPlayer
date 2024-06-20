@@ -1,4 +1,4 @@
-#Se sube diagrama de clases
+# Se sube diagrama de clases
 ![image](https://github.com/johanneslava/PatronesEstructuralesParte1-AudioPlayer/assets/63761305/b71e096a-6583-4190-b71c-b7eb8c65063f)
 
 
